@@ -1,0 +1,5 @@
+	; cmd commands
+	; System Boot Time finder paste in cmd:
+	; systeminfo | find /i "Boot Time"
+	; systeminfo | find /i "Boot Time" > C:\Users\%username%\Desktop\boot_time.txt
+	; systeminfo | find /i "date"      ; ;Original Install Date finder paste in cmd:
